@@ -1,0 +1,48 @@
+{
+  "identifier" : "2E369EB6",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "27BB4425",
+      "localizations" : [
+        {
+          "description" : "Very filling and refreshing",
+          "displayName" : "Berry Blue",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ri.RecipeStoreInAppPurchase.berryBlue",
+      "referenceName" : "Berry Blue",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "826A6BEB",
+      "localizations" : [
+        {
+          "description" : "Lemon",
+          "displayName" : "Lemon",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ri.RecipeStoreInAppPurchase.lemon",
+      "referenceName" : "Lemon",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
